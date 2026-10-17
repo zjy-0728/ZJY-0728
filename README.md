@@ -1,5 +1,4 @@
-Undergraduate student at Xidian University.
-Research interests: Computer Vision, infrared and visible video fusion.
+
 ## Hi there 👋
 
 <!--
